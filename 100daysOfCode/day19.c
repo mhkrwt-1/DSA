@@ -65,6 +65,7 @@ int main()
             right--;
         }
     }
+    printf("The numbers whose sum is nearest to zero: ");
 
     printf("%d %d", x, y);
 
